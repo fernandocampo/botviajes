@@ -13,4 +13,5 @@ Queremos que el robot sea muy cordial y que te permita consultar más de una vez
 # 
 
 Ejercicio resuelto 
-<iframe src='https://gfycat.com/ifr/DifficultThoroughHalicore' frameborder='0' scrolling='no' allowfullscreen width='640' height='417'></iframe>
+
+#[Screenshot](https://thumbs.gfycat.com/DifficultThoroughHalicore-size_restricted.gif)
