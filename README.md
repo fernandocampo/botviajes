@@ -14,5 +14,4 @@ Queremos que el robot sea muy cordial y que te permita consultar más de una vez
 
 Ejercicio resuelto 
 
-[Screenshot](https://thumbs.gfycat.com/DifficultThoroughHalicore-size_restricted.gif)
-
+<img src="https://thumbs.gfycat.com/DifficultThoroughHalicore-size_restricted.gif"/>
