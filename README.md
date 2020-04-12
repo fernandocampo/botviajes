@@ -1,7 +1,6 @@
 # botviajes
 Ejercicio conceptual de consola aplicando estructuras de control en Python 
 
-El TravelBot
 El travel bot es un bot que si le decis las millas que tenés te dice a donde te podes ir.
 
 * menos de 150millas --> Colonia
