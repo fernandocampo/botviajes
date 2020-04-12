@@ -13,6 +13,5 @@ Queremos que el robot sea muy cordial y que te permita consultar más de una vez
 # 
 
 Ejercicio resuelto 
-
-![Alt Text](https://gfycat.com/difficultthoroughhalicore)
+![Image description](https://gfycat.com/difficultthoroughhalicore)
 
