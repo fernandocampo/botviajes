@@ -15,5 +15,5 @@ Además
 
 Ejercicio resuelto 
 
-<img src="https://thumbs.gfycat.com/DifficultThoroughHalicore-small.gif"/>
+<img src="https://thumbs.gfycat.com/DifficultThoroughHalicore-size_restricted.gif"/>
 
