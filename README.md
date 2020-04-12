@@ -8,6 +8,11 @@ El travel bot es un bot que si le decis las millas que tenés te dice a donde te
 * más de 3000 millas --> Frankfurt
 
 Además si sos vip, y tenés más de 3000 millas --> Te vas a Tokio
-
 Queremos que el robot sea muy cordial y que te permita consultar más de una vez
+
 # 
+
+Ejercicio resuelto 
+
+![Alt Text](https://gfycat.com/difficultthoroughhalicore)
+
