@@ -2,10 +2,11 @@
 Ejercicio conceptual de consola aplicando estructuras de control en Python 
 
 El TravelBot
-El travel bot es un bot que si le decis las millas que tenés te dice a donde te podes ir
---> menos de 150millas --> Colonia
---> más de 2000 millas --> Perú
---> más de 3000 millas --> Frankfurt
+El travel bot es un bot que si le decis las millas que tenés te dice a donde te podes ir.
+
+* menos de 150millas --> Colonia
+* más de 2000 millas --> Perú
+* más de 3000 millas --> Frankfurt
 
 Además si sos vip, y tenés más de 3000 millas --> Te vas a Tokio
 
